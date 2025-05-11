@@ -43,7 +43,6 @@ function App() {
 
     setCart((items) => [...items, newCartElement]);
 
-    console.log(cart);
     return;
   }
 

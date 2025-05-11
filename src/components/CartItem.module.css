@@ -1,0 +1,30 @@
+.cartItem {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  background-color: white;
+  color: black;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.cartItemInfo {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+}
+
+.buttonContainer {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.cartItem button {
+  display: flex;
+  flex-direction: row;
+}

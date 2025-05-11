@@ -1,0 +1,15 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.navBtn {
+  color: white;
+  background-color: black;
+  padding: 10px;
+  border-radius: 5px;
+  border: solid white 1px;
+  margin: 10px;
+}

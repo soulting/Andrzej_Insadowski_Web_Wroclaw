@@ -82,7 +82,7 @@ function App() {
 
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename="/Andrzej_Insadowski_Web_Wroclaw">
         <Routes>
           <Route index element={<Navigate replace to="/product-list" />} />{" "}
           <Route

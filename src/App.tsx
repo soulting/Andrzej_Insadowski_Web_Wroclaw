@@ -25,7 +25,6 @@ function App() {
 
     window.location.href = "/confirmation.html";
     setCart([]);
-    l;
   }
 
   function handleAddToCart(product: ProductType): void {

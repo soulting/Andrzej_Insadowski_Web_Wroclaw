@@ -23,7 +23,7 @@ function App() {
     localStorage.setItem("cart", JSON.stringify(cart));
     localStorage.setItem("endPrice", JSON.stringify(endPrice));
 
-    window.location.href = "/confirmation.html";
+    window.location.href = "confirmation.html";
     setCart([]);
   }
 
